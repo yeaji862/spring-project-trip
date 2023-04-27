@@ -8,9 +8,9 @@
 
 담당 역할 : 팀장 / 사용자의 여행 일정 관리 서비스 / 메인 페이지 디자인
 
-사용자용 주소 : http://www.triponplan.ga/main.do
+사용자용 주소 : http://www.triponplan.ga
 
-관리자용 주소 : http://www.triponplan.ga/main.do/admin
+관리자용 주소 : http://www.triponplan.ga/admin
 
 사용자 아이디 : user222 비밀번호 : 1111 
 
