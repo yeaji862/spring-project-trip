@@ -25,6 +25,19 @@
 - 메인 페이지 디자인
 
 ---
+### 🛫 프로젝트 팀원
+
+|**Name**|**GitHub & Email**|
+|----|----------------|
+|**김예지**|[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">](https://github.com/yeaji862 "김예지 깃허브") [<img src="https://img.shields.io/badge/kyjkeh0515@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kyjkeh0515@gmail.com">](mailto:kyjkeh0515@gmail.com "김예지 이메일")|
+|**김도형**|[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">](https://github.com/duel4u "김도형 깃허브") [<img src="https://img.shields.io/badge/duel4u@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:duel4u@gmail.com">](mailto:duel4u@gmail.com "김도형 이메일")|
+|**장승연**|[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">](https://github.com/jangseungyeon "장승연 깃허브") [<img src="https://img.shields.io/badge/wkdtmddus3512@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wkdtmddus3512@gmail.com">](mailto:wkdtmddus3512@gmail.com "장승연 이메일")|
+|**김태수**|[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">](https://github.com/kkimts80 "김태수 깃허브") [<img src="https://img.shields.io/badge/kkimts80@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kkimts80@gmail.com">](mailto:kkimts80@gmail.com "김태수 이메일")|
+|**윤상호**|[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">](https://github.com/BlueWizdom "윤상호 깃허브") [<img src="https://img.shields.io/badge/yssh0424@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yssh0424@gmail.com">](mailto:yssh0424@gmail.com "윤상호 이메일")|
+|**현성규**|[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">](https://github.com/Hyun8787 "현성규 깃허브") [<img src="https://img.shields.io/badge/ooppbbss@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ooppbbss@gmail.com">](mailto:ooppbbss@gmail.com "현성규 이메일")|
+|**강석영**|[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">](https://github.com/KangSY92 "강석영 깃허브") [<img src="https://img.shields.io/badge/tjrdud471@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tjrdud471@gmail.com">](mailto:tjrdud471@gmail.com "강석영 이메일")|
+
+<br/>
 
 ### 개발 일정 🗓️
 
