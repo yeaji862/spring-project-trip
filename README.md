@@ -6,9 +6,9 @@
 
 프로젝트 설명 : 숙박 예약 서비스와 여행 일정 만들기를 한 번에 이용할 수 있는 여행 사이트 
 
-사용자용 주소 : http://www.triponplan.ga
+사용자용 주소 : http://www.triponplan.shop/main.do
 
-관리자용 주소 : http://www.triponplan.ga/admin
+관리자용 주소 : http://www.triponplan.shop/admin
 
 사용자 아이디 : user222 비밀번호 : 1111 
 
